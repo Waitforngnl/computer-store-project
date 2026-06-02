@@ -1,0 +1,9 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend (Đón đầu cho Laravel sau này)
+backend/.env
+backend/vendor/
